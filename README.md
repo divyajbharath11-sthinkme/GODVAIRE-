@@ -1,2 +1,129 @@
 # GODVAIRE-
 godvaire perfumes that make ur presence unforgettable ✨️ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GODVAIRE</title>
+
+<style>
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Georgia, serif;
+}
+
+body{
+background:#000;
+color:white;
+}
+
+header{
+text-align:center;
+padding:80px 20px;
+}
+
+h1{
+font-size:60px;
+color:#D4AF37;
+}
+
+.tagline{
+font-size:20px;
+margin-top:10px;
+letter-spacing:3px;
+}
+
+section{
+padding:60px 10%;
+text-align:center;
+}
+
+h2{
+color:#D4AF37;
+margin-bottom:20px;
+}
+
+.about p{
+max-width:700px;
+margin:auto;
+line-height:1.8;
+}
+
+.product{
+background:#111;
+padding:30px;
+border:1px solid #D4AF37;
+border-radius:10px;
+max-width:400px;
+margin:20px auto;
+}
+
+.contact{
+background:#111;
+padding:40px;
+}
+
+a{
+color:#D4AF37;
+text-decoration:none;
+}
+
+footer{
+padding:30px;
+text-align:center;
+border-top:1px solid #333;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>GODVAIRE</h1>
+<p class="tagline">MAKE YOUR PRESENCE UNFORGETTABLE</p>
+</header>
+
+<section class="about">
+<h2>About GODVAIRE</h2>
+<p>
+Godvaire is more than a fragrance. It is an expression of confidence,
+elegance, and charisma. Every scent is designed to leave a lasting impression.
+</p>
+</section>
+
+<section>
+<h2>Our Collection</h2>
+
+<div class="product">
+<h3>GODVAIRE Extrait De Parfum</h3>
+<p>Luxury fragrance crafted for unforgettable presence.</p>
+<p><strong>Coming Soon</strong></p>
+</div>
+
+</section>
+
+<section class="contact">
+<h2>Contact Us</h2>
+
+<p>📞 +91 8867607080</p>
+<br>
+
+<p>
+📸 Instagram:
+<a href="https://instagram.com/godvaire.in" target="_blank">
+@godvaire.in
+</a>
+</p>
+
+</section>
+
+<footer>
+<p>© 2026 GODVAIRE</p>
+<p>MAKE YOUR PRESENCE UNFORGETTABLE</p>
+</footer>
+
+</body>
+</html>
